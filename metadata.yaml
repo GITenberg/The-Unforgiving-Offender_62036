@@ -1,5 +1,5 @@
 _repo: The-Unforgiving-Offender_62036
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Underwood, Clarence F.
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1929
     gutenberg_agent_id: '7139'
     url: http://www.gutenberg.org/2009/agents/7139
+covers:
+- cover_type: archival
+  image_path: 62036-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, John Reed
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '5842'
     url: http://www.gutenberg.org/2009/agents/5842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62036#The-Unforgiving-Offender
 gutenberg_issued: '2020-05-06'
 gutenberg_type: Text
 identifiers:
