@@ -1,0 +1,33 @@
+_repo: The-Unforgiving-Offender_62036
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Underwood, Clarence F.
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '7139'
+    url: http://www.gutenberg.org/2009/agents/7139
+creator:
+  author:
+    agent_name: Scott, John Reed
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '5842'
+    url: http://www.gutenberg.org/2009/agents/5842
+description: ''
+gutenberg_issued: '2020-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62036'
+  lccn: '13009286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Rich people -- Fiction'
+- GITenberg
+title: The Unforgiving Offender
+url: http://www.gutenberg.org/ebooks/62036
